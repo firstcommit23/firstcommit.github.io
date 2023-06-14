@@ -6,5 +6,7 @@ codog commit test 6
 codog commit test 5
 codog commit test 7
 codog commit test 8
+codog commit test 9
+codog commit test 8
 
 커밋 테스트!
